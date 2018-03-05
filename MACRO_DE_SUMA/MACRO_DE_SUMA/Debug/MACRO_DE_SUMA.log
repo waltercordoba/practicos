@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\globant\practicos\macro_de_suma\macro_de_suma\source.cpp(29): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+e:\globant\practicos\macro_de_suma\macro_de_suma\source.cpp(30): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  MACRO_DE_SUMA.vcxproj -> E:\Globant\practicos\MACRO_DE_SUMA\Debug\MACRO_DE_SUMA.exe
