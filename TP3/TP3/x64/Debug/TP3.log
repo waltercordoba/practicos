@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  unsignedResult86.cpp
+e:\globant\tp3\tp3\unsignedresult86.cpp(7): warning C4129: '%': secuencia de escape de carácter no reconocida
+e:\globant\tp3\tp3\unsignedresult86.cpp(8): warning C4129: '%': secuencia de escape de carácter no reconocida
+  TP3-X86.cpp
+  sizeOf86.cpp
+  numericLimits86.cpp
+e:\globant\tp3\tp3\numericlimits86.cpp(43): warning C4477: 'printf' : la cadena de formato '%Le' requiere un argumento de tipo 'long double', pero el argumento variádico 1 tiene el tipo '__int64'
+e:\globant\tp3\tp3\numericlimits86.cpp(45): warning C4477: 'printf' : la cadena de formato '%e' requiere un argumento de tipo 'double', pero el argumento variádico 1 tiene el tipo '__int64'
+  dataType86.cpp
+e:\globant\tp3\tp3\datatype86.cpp(7): warning C4129: '%': secuencia de escape de carácter no reconocida
+e:\globant\tp3\tp3\datatype86.cpp(9): warning C4129: '%': secuencia de escape de carácter no reconocida
+e:\globant\tp3\tp3\datatype86.cpp(11): warning C4129: '%': secuencia de escape de carácter no reconocida
+e:\globant\tp3\tp3\datatype86.cpp(13): warning C4129: '%': secuencia de escape de carácter no reconocida
+  crudVector86.cpp
+  Generando código...
+  TP3.vcxproj -> E:\Globant\TP3\x64\Debug\TP3-X86.exe

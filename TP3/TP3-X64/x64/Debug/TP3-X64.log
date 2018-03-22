@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  TP3-X64.cpp
+  unsignedResult64.cpp
+  sizeOf64.cpp
+  numericLimits64.cpp
+  dataType64.cpp
+e:\globant\tp3\tp3-x64\datatype64.cpp(7): warning C4129: '%': secuencia de escape de carácter no reconocida
+e:\globant\tp3\tp3-x64\datatype64.cpp(9): warning C4129: '%': secuencia de escape de carácter no reconocida
+e:\globant\tp3\tp3-x64\datatype64.cpp(11): warning C4129: '%': secuencia de escape de carácter no reconocida
+e:\globant\tp3\tp3-x64\datatype64.cpp(13): warning C4129: '%': secuencia de escape de carácter no reconocida
+  crudVector64.cpp
+  Generando código...
+  TP3-X64.vcxproj -> E:\Globant\TP3\x64\Debug\TP3-X64.exe
