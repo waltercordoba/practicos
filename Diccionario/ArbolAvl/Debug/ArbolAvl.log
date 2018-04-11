@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (ArbolAvl.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  ArbolAvl.cpp
+  ArbolAvl.vcxproj -> E:\Globant\ArbolAvl\Debug\Diccionario.exe
