@@ -1,0 +1,3 @@
+﻿  Funciones8.cpp
+e:\globant\funciones\funciones8\funciones8.cpp(13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Funciones8.vcxproj -> E:\Globant\Funciones\Debug\Funciones8.exe
